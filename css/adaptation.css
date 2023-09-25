@@ -1,0 +1,706 @@
+@media only screen and (max-width: 1920px){
+  .heder_burger{
+    display: none;
+  }
+/*Forma---------------------------------------------------------------------------------------------*/
+  .but{
+    background-color: #fff;
+    width: 450px;
+    padding-bottom: 0px;
+  }
+  /*--------------------------------------------------------------------------------------------Forma*/
+}
+@media only screen and (max-width: 1200px){
+  .heder_burger{
+    display: none;
+  }
+  /*Forma--------------------------------------------------------------------------------------------*/
+  #logo1{
+    margin-top: 50px;
+    margin-bottom: 60px;
+    width: 300px;
+  }
+  .but{
+    background-color: #fff;
+    width: 400px;
+    padding-bottom: 0px;
+  }
+/*------------------------------------------------------------------------------------------------Forma*/
+
+    /*Home---------------------------------------------------------------------------------------------*/
+    /*Section-----------*/
+
+
+
+    /*Section--------------*/
+    /*------------------------------------------------------------------------------------------Home*/
+    .g1{
+      width: 100%;
+      padding: 5px;
+    }
+    .g3{
+      height: 30px;
+      padding: 10px;
+      margin-top: 15px;
+    }
+    #p1, #p123{
+      font-size: 16px;
+    }
+
+
+  /*Home2---------------------------------------------------------------------------------------------*/
+  /*header------------*/
+  .header_glav{
+    box-shadow: 0 3px 6px #000;
+  	background-color: #fff;
+    height: 80px;
+  }
+  .header_glav .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  #logo{
+  	width: 150px;
+  }
+  .krug{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 100%;
+    margin-right: 10px;
+    text-align: center;
+  }
+  /*-----------header*/
+
+
+
+
+/*Section-----------*/
+  .glav{
+  	width: 830px;
+  	margin: 0 auto;
+  	margin-top: 40px;
+  }
+  .glav11{
+  	width: 100%;
+  	display: flex;
+  	justify-content: space-between;
+  	align-items: center;
+  	margin-top: 15px;
+  }
+  .glav1{
+  	width: 270px;
+  	height: 350px;
+  	background-color: #fff;
+  	margin-top: 15px;
+  	text-align: center;
+  	border-radius: 5px;
+  }
+  #imgg{
+  	width: 250px;
+  	margin-top: 15px;
+  }
+  #imgg1{
+  	width: 250px;
+  	margin-top: 20px;
+  	margin-bottom: 0px;
+  }
+  #glav1_P{
+  	margin-top: 15px;
+  	margin-bottom: 10px;
+  	font-weight: 400;
+  	font-family: 'Roboto',sans-serif;
+  }
+  /*Section--------------*/
+    /*------------------------------------------------------------------------------------------Home2*/
+}
+
+
+
+@media only screen and (max-width: 992px){
+  .heder_burger{
+    display: none;
+  }
+  /*Forma-------------------*/
+  .but{
+    background-color: #fff;
+    width: 310px;
+    padding-bottom: 0px;
+  }
+  /*-------------------Forma*/
+  /*Home---------------------------------------------------------------------------------------------*/
+  /*Section-----------*/
+  #p1, #p123{
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .g2{
+    height: 170px;
+  }
+  #p123{
+    margin-top: 15px;
+  }
+  #One{
+    font-size: 20px;
+  }
+  #p12{
+    font-size: 17px;
+  }
+  /*Section--------------*/
+    /*------------------------------------------------------------------------------------------Home*/
+
+  /*Home2---------------------------------------------------------------------------------------------*/
+  /*Section-----------*/
+  .blok{
+  	width: 100px;
+  	height: 230%;
+  	margin-top: 15px;
+  	background-color: #fff;
+  	padding-top: 25px;
+  }
+  .blokk{
+    margin: auto;
+    width: 100%;
+    height: 80px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .blokk:hover{
+    background-color: #FFCC33;
+  }
+  #icon, #icon1{
+    padding-top: 15px;
+    display: block;
+    margin: 0 auto;
+  }
+  #Pp{
+    margin-top: 3px;
+    text-align: center;
+  }
+
+
+    .glav{
+    	width: 700px;
+    	margin: 0 auto;
+    	margin-top: 40px;
+    }
+    .glav11{
+    	width: 100%;
+    	display: flex;
+    	justify-content: space-between;
+    	align-items: center;
+    	margin-top: 15px;
+    }
+    .glav1{
+    	width: 220px;
+    	height: 300px;
+    	background-color: #fff;
+    	margin-top: 15px;
+    	text-align: center;
+    	border-radius: 5px;
+    }
+    #imgg{
+    	width: 210px;
+    	margin-top: 15px;
+    }
+    #imgg1{
+      width: 210px;
+    	margin-top: 20px;
+      margin-bottom: 0px;
+    }
+    /*Section--------------*/
+      /*------------------------------------------------------------------------------------------Home2*/
+}
+
+@media only screen and (max-width: 870px){
+
+  /*Home---------------------------------------------------------------------------------------------*/
+  /*Section-----------*/
+  .g1{
+    height: 430px;
+  }
+  .g1_1{
+      width: 270px;
+  }
+  #img1{
+    width: 250px;
+  }
+  #money{
+    font-size: 35px;
+  }
+  #h33{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  #p1{
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .g2{
+    padding: 15px;
+    height: 170px;
+  }
+  #p123{
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 15px;
+  }
+  #One{
+    font-size: 20px;
+  }
+  #p12{
+    font-size: 17px;
+  }
+  /*Section--------------*/
+    /*------------------------------------------------------------------------------------------Home*/
+  .heder_burger{
+    display: none;
+  }
+  .glav{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 40px;
+  }
+  .glav1{
+    width: 190px;
+    height: 300px;
+    background-color: #fff;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 5px;
+  }
+  #imgg{
+    width: 180px;
+    margin-top: 15px;
+  }
+  #imgg1{
+  	width: 180px;
+  	margin-top: 20px;
+    margin-bottom: 0px;
+  }
+  #btn_1{
+  	background-color: #FFCC33;
+  	border-radius: 5px;
+  	border: 0px;
+  	width: 160px;
+  	height: 35px;
+  	margin-top: 15px;
+  }
+}
+
+
+@media only screen and (max-width: 768px){
+  .heder_burger{
+    display: none;
+  }
+  /*Forma-------------------*/
+  #logo1{
+    width: 280px;
+    margin-bottom: 45px;
+  }
+  .but{
+    background-color: #fff;
+    width: 300px;
+  }
+  /*-------------------Forma*/
+
+  /*Home---------------------------------------------------------------------------------------------*/
+  /*Section-----------*/
+  .g1{
+    height: 430px;
+  }
+  .g1_1{
+      width: 270px;
+  }
+  #img1{
+    width: 250px;
+  }
+  #money{
+    font-size: 35px;
+  }
+  #h33{
+    margin-bottom: 100px;
+  }
+  #p1{
+    font-size: 14px;
+    line-height: 15px;
+  }
+  .g2{
+    padding: 15px;
+    height: 170px;
+  }
+  #p123{
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 15px;
+  }
+  #One{
+    font-size: 20px;
+  }
+  #p12{
+    font-size: 17px;
+  }
+  /*Section--------------*/
+    /*------------------------------------------------------------------------------------------Home*/
+
+
+  /*Home2---------------------------------------------------------------------------------------------*/
+  /*header------------*/
+  .header_glav{
+    box-shadow: 0 3px 6px #000;
+  	background-color: #fff;
+    height: 70px;
+  }
+  #logo{
+  	width: 130px;
+  }
+  .krug{
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 100%;
+    margin-right: 10px;
+    text-align: center;
+  }
+  /*-----------header*/
+
+
+
+
+/*Section-----------*/
+
+  .blok{
+  	width: 90px;
+  	height: 130%;
+  	margin-top: 15px;
+  	background-color: #fff;
+  	padding-top: 25px;
+  }
+  .glav{
+  	width: 520px;
+  	margin: 0 auto;
+  	margin-top: 20px;
+  }
+  #h33{
+    text-align: left;
+    font-size: 22px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .glav1{
+  	width: 170px;
+  	height: 260px;
+  	background-color: #fff;
+  	margin-top: 15px;
+  	text-align: center;
+  	border-radius: 5px;
+  }
+  #imgg{
+  	width: 160px;
+  	margin-top: 10px;
+  }
+  #imgg1{
+  	width: 160px;
+  	margin-top: 15px;
+  	margin-bottom: 0px;
+  }
+  /*Section--------------*/
+    /*------------------------------------------------------------------------------------------Home2*/
+
+}
+
+@media only screen and (max-width: 650px){
+  .heder_burger{
+    display: none;
+  }
+  /*Home2---------------------------------------------------------------------------------------------*/
+/*Section-----------*/
+
+  .blok{
+  	width: 90px;
+  	height: 130%;
+  	margin-top: 15px;
+  	background-color: #fff;
+  	padding-top: 25px;
+  }
+  .glav{
+  	width: 470px;
+  	margin: 0 auto;
+  	margin-top: 15px;
+  }
+  #h33{
+    text-align: left;
+    font-size: 22px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .glav1{
+  	width: 150px;
+  	height: 220px;
+  	background-color: #fff;
+  	margin-top: 15px;
+  	text-align: center;
+  	border-radius: 5px;
+  }
+  #imgg{
+  	width: 140px;
+  	margin-top: 10px;
+  }
+  #imgg1{
+  	width: 140px;
+  	margin-top: 15px;
+  	margin-bottom: 0px;
+  }
+  #glav1_P{
+    font-size: 13px;
+  	margin-top: 15px;
+  	font-weight: 400;
+  	font-family: 'Roboto',sans-serif;
+  }
+  #btn_1{
+    font-size: 12px;
+    background-color: #FFCC33;
+    border-radius: 3px;
+    border: 0px;
+    width: 130px;
+    height: 25px;
+    margin-top: 10px;
+  }
+  /*Section--------------*/
+    /*------------------------------------------------------------------------------------------Home2*/
+}
+
+@media only screen and (max-width: 575px){
+  .heder_burger{
+    display: none;
+  }
+  /*Forma-------------------*/
+  #i1{
+  	width: 100%;
+  	height: 100%;
+  	left: 0px;
+  	top: 0px;
+    position: absolute;
+    z-index: -1;
+  }
+  .avtorization{
+  	margin:0 auto;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+  }
+  #logo1{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 7px 27px;
+  }
+  .but{
+    background-color: #fff;
+    width: 330px;
+    padding-bottom: 0px;
+  }
+  .pp{
+    margin-left: 22px;
+  }
+  .btn3{
+    font-size: 16px;
+  }
+/*-------------------Forma*/
+/*Home2---------------------------------------------------------------------------------------------*/
+/*header------------*/
+.header_glav{
+  box-shadow: 0 3px 6px #000;
+  background-color: #fff;
+  height: 60px;
+}
+#logo{
+  width: 100px;
+}
+.krug{
+  width: 20px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 100%;
+  margin-right: 10px;
+  text-align: center;
+}
+/*-----------header*/
+
+/*Section-----------*/
+  #h33{
+  	text-align: left;
+  	font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .blok{
+    width: 80px;
+    height: 130%;
+    margin-top: 15px;
+    background-color: #fff;
+    padding-top: 20px;
+  }
+  .blokk{
+    margin: auto;
+    width: 100%;
+    height: 70px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  #icon1{
+    width: 25px;
+  }
+  #icon{
+    width: 20px;
+  }
+.glav{
+  width: 380px;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+.glav1{
+  width: 120px;
+  height: 200px;
+  background-color: #fff;
+  margin-top: 15px;
+  text-align: center;
+  border-radius: 5px;
+}
+#imgg{
+  width: 110px;
+  margin-top: 5px;
+}
+#imgg1{
+  width: 110px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+#glav1_P{
+  font-size: 12px;
+  margin-top: 15px;
+  font-weight: 400;
+  font-family: 'Roboto',sans-serif;
+}
+#btn_1{
+  font-size: 10px;
+  background-color: #FFCC33;
+  border-radius: 3px;
+  border: 0px;
+  width: 100px;
+  height: 25px;
+  margin-top: 10px;
+}
+/*Section--------------*/
+  /*------------------------------------------------------------------------------------------Home2*/
+}
+@media only screen and (max-width: 480px){
+  .header_glav{
+    display: none;
+  }
+  .blok{
+    display: none;
+  }
+  .heder_burger{
+    display: inherit;
+  }
+  /*Forma-------------------*/
+  #logo1{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 7px 16px;
+    margin-bottom: 60px;
+  }
+  .but{
+    background-color: #fff;
+    width: 310px;
+    padding-bottom: 0px;
+  }
+  /*-------------------Forma*/
+
+  /*Home2---------------------------------------------------------------------------------------------*/
+
+  /*Section-----------*/
+  section{
+    width: 100%;
+
+    margin-top: 100px;
+  }
+    #h33{
+    	text-align: left;
+    	font-size: 22px;
+      margin-top: 10px;
+      margin-bottom: 0px;
+    }
+  .glav{
+    width: calc(100% - 30px);
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+  .glav11{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+  }
+  .glav1{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 40px;
+    background-color: #fff;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 20px 20px 40px;
+  }
+  #imgg{
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  #imgg1{
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  #glav1_P{
+    font-size: 16px;
+    margin-top: 15px;
+    font-weight: 400;
+    font-family: 'Roboto',sans-serif;
+  }
+  #btn_1{
+    font-size: 14px;
+    background-color: #FFCC33;
+    border-radius: 3px;
+    border: 0px;
+    width: 230px;
+    height: 35px;
+    margin-top: 10px;
+  }
+  /*Section--------------*/
+    /*------------------------------------------------------------------------------------------Home2*/
+
+
+}
+@media only screen and (max-width: 320px){
+/*Forma-------------------*/
+  #logo1{
+    width: 230px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 7px 15px;
+  }
+  .but{
+    background-color: #fff;
+    width: 260px;
+    padding-bottom: 0px;
+  }
+  .pp{
+    margin-left: 20px;
+  }
+  /*-------------------Forma*/
+}

@@ -1,0 +1,116 @@
+p,h1,h2,h3,h4,h5{
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+}
+body{
+	margin: 0;
+}
+.body{
+	display: flex;
+}
+#i1{
+	width: 45%;
+	height: 100vh;
+	left: 0px;
+	top: 0px;
+}
+.avtorization{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	flex-direction: column;
+	margin:0 auto;
+	width: 430px;
+
+}
+#logo1{
+	width: 350px;
+	margin-bottom: 80px;
+	margin-top: 40px;
+}
+.btt{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 30px;
+}
+.bt1{
+	font-size: 17px;
+	border: 0px;
+	background-color: white;
+	width: 50%;
+	height: 40px;
+	padding: 0px;
+	border-radius: 5px 0px 0px 0px;
+}
+.bt2{
+	font-size: 17px;
+	border: 0px;
+	background-color: #e6e5e3;
+	width: 50%;
+	height: 40px;
+	padding: 0px;
+	border-radius: 0px 5px 0px 0px;
+}
+.inp{
+	display: block;
+	margin: auto;
+	width: 82%;
+	height: 28px;
+	padding-left: 10px;
+	font-size: 16px;
+	border: 1px solid: #ccc;
+	border-radius: 4px;
+}
+.btn3{
+	display: block;
+	margin: auto;
+	width: 86%;
+	height: 40px;
+	background-color: #FFCC33;
+	border: 0px;
+	border-radius: 6px;
+}
+.but{
+	width: 100%;
+	box-shadow: -3px 3px 25px #ccc;
+	padding-bottom: 20px;
+	border-radius: 5px;
+}
+.pp{
+	margin-left: 32px;
+	margin-bottom: 10px;
+}
+form{
+	margin-bottom: 30px;
+}
+
+/*
+.zag{
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	padding: 5%;
+	margin-bottom: 90px;
+	margin-top: 30px;
+
+}
+#icon1{
+	width: 120px;
+	height: 120px;
+}
+#b{
+  font-family: "Baloo Tamma 2", sans-serif;
+	font-size: 64px;
+	color: #FFCC33;
+	font-weight: bold;
+}
+#e{
+	padding: 0px;
+	font-family: "Baloo Tamma 2", sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+}
+*/
